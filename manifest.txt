@@ -1,0 +1,3 @@
+Name "ClothingOnBedMod"
+Author "lukejames1111"
+Description "This mod places clean clothes on beds instead of on walls."
